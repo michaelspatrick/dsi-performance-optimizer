@@ -4,6 +4,7 @@ Plugin Name: Performance Optimizer
 Description: Basic test plugin to verify activation.
 Version: 1.0
 Author: Michael Patrick
+Requires Plugins: woocommerce
 */
 
 // Disable Woo Order Splitter Async Queue
